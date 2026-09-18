@@ -1,0 +1,6 @@
+{
+  "name": "HOD FRAGONARD — Site Officiel",
+  "description": "Site officiel de Hod Fragonard : Juriste, Autrice, Entrepreneure et Ambassadrice de Paix. Le droit, les idées et l'engagement au service d'une vision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
